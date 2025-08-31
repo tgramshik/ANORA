@@ -1,0 +1,95 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+virtualenv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# Config with sensitive data
+config.py
+.env
+*.env
+
+# System files
+.cache/
+.local/
+.npm/
+.config/
+.dotnet/
+.ssh/
+.screenrc
+.bashrc
+.bash_history
+.profile
+.viminfo
+.wget-hsts
+.lesshst
+.gitconfig
+.codeium/
+.cursor-server/
+.qoder-server/
+.qodo/
+.vscode-server/
+.windsurf-server/
+.claude/
+.claude.json
+.claude.json.backup
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+*~
+
+# Service files
+*.service
+manage_service.sh
+monitor.sh
+setup.sh
+
+# Test data
+*.testing_data
+guest.conf
+guest.testing_data
+
+# Images (optional, uncomment if you don't want to track images)
+# *.jpg
+# *.png
+# *.jpeg
+# *.gif
+
+# Misc
+=2.3.3
+description.txt
+giftex.top.conf
+anora-web.service
+
+# Specific project folders (keep in git but might have generated content)
+# static/
+# bolt/
